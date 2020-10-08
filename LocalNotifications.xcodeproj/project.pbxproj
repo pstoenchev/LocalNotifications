@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0416C25C252F808500D24180 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 0416C25B252F808500D24180 /* images */; };
 		0423AFCF252CE473006EE3C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0423AFCE252CE473006EE3C8 /* AppDelegate.swift */; };
 		0423AFD1252CE473006EE3C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0423AFD0252CE473006EE3C8 /* SceneDelegate.swift */; };
 		0423AFD3252CE473006EE3C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0423AFD2252CE473006EE3C8 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0416C25B252F808500D24180 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		0423AFCB252CE473006EE3C8 /* LocalNotifications.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalNotifications.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0423AFCE252CE473006EE3C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0423AFD0252CE473006EE3C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		0423AFCD252CE473006EE3C8 /* LocalNotifications */ = {
 			isa = PBXGroup;
 			children = (
+				0416C25B252F808500D24180 /* images */,
 				0423AFCE252CE473006EE3C8 /* AppDelegate.swift */,
 				0423AFD0252CE473006EE3C8 /* SceneDelegate.swift */,
 				0423AFD2252CE473006EE3C8 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0423AFDB252CE474006EE3C8 /* LaunchScreen.storyboard in Resources */,
+				0416C25C252F808500D24180 /* images in Resources */,
 				0423AFD8252CE474006EE3C8 /* Assets.xcassets in Resources */,
 				0423AFD6252CE473006EE3C8 /* Main.storyboard in Resources */,
 			);
